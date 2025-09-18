@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 63 (101010) - https://sketch.com -->
+    <title>8CEA2C4C-4438-4B08-93FD-AA9297AC2A45</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="3.28331438e-05 8.77192982e-06 9.94609874 8.77192982e-06 9.94609874 5.32027193 3.28331438e-05 5.32027193"></polygon>
+    </defs>
+    <g id="desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="EN叫號器群組_列表_新增叫號器群組" transform="translate(-874.000000, -374.000000)">
+            <g id="module/dropdown/selected" transform="translate(500.000000, 354.000000)">
+                <g id="icon/operating/down/dropdown">
+                    <g transform="translate(374.000000, 20.000000)">
+                        <g transform="translate(0.000000, 0.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-2"></g>
+                            <path d="M4.97304386,5.32027193 C4.8159386,5.32027193 4.65874561,5.26281579 4.53558772,5.14799123 L0.20427193,1.11123684 C-0.0550263158,0.869570175 -0.0693245614,0.463517544 0.172254386,0.204219298 C0.413921053,-0.0548157895 0.820061404,-0.069377193 1.07927193,0.172289474 L4.97304386,3.80123684 L8.86681579,0.172289474 C9.12611404,-0.069377193 9.53225439,-0.0550789474 9.77383333,0.204219298 C10.0155,0.463517544 10.001114,0.869570175 9.74190351,1.11123684 L5.41058772,5.14799123 C5.28742982,5.26281579 5.13014912,5.32027193 4.97304386,5.32027193" id="Fill-1" fill="#A4B0B7" mask="url(#mask-2)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
